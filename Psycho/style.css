@@ -1,0 +1,178 @@
+.header {
+    background-color: #2D7053;
+    height: 236px;
+    width: 751px;
+}
+
+.all {
+    margin-top: 58px;
+    margin-bottom: 58px;
+}
+
+.circle {
+    display: inline-block;
+    margin-left: 37px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* vertical-align: middle; */
+}
+
+.threelines {
+    display: inline-block;
+    margin-left: 251px;
+    /* margin-bottom: 84px; */
+    /* vertical-align: middle; */
+}
+
+.line {
+    background-color: white;
+    width: 84px;
+    height: 12px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.name {
+    color: white;
+    display: inline-block;
+    margin-left: 58px;
+    font-size: 30px;
+    /* margin-bottom: 53px;
+margin-top: 53px; */
+    /*margin-bottom: 60px;*/
+    /* vertical-align: middle; */
+}
+
+.mainim {
+    width: 751px;
+    height: 466px;
+    background: url(./Images/0325115cfca2f08bd19529e1d4a4396a@1X.png);
+}
+
+.shadow {
+    color: rgba(255, 255, 255.0, 6);
+    width: 742px;
+    height: 444px;
+    padding-top: 344px;
+}
+
+.button {
+    width: 342px;
+    height: 75px;
+    background-color: #CB9223;
+    margin-left: 204px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.sign {
+    padding-left: 45px;
+    padding-top: 25px;
+    font-size: 22px;
+    font-family: AdobeInvisFont, MyriadPro-Regular;
+    color: white;
+}
+
+.main {
+    display: inline-block;
+    margin-top: 72px;
+    margin-left: 44px;
+}
+
+.circleim {
+    display: inline-block;
+    width: 247px;
+    height: 247px;
+    border-radius: 50%;
+    /* margin-top: 72px; */
+    /* margin-left: 44px; */
+}
+
+.job {
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 73px;
+}
+
+.job1 {
+    /* margin-left:; */
+    margin-top: 29px;
+}
+
+.maintext {
+    font-family: AdobeInvisFont, MyriadPro-Regular;
+    margin-left: 44px;
+}
+
+.text {
+    font: optional;
+    text-align: left;
+    margin-top: 70px;
+    font-size: 24px;
+}
+
+.h1 {
+    margin-top: 46px;
+}
+
+.list {
+    font-size: 24px;
+    margin-top: 43px;
+}
+
+.button2 {
+    width: 342px;
+    height: 75px;
+    background-color: #CB9223;
+    margin-left: 204px;
+    margin-top: 43px;
+    margin-bottom: 50px;
+}
+
+.footer {
+    background-color: #888888;
+    height: 154px;
+    width: 751px;
+    /* padding-top: 100px; */
+}
+
+.img2 {
+    display: inline-block;
+    margin-left: 37px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.adr {
+    display: inline-block;
+    color: white;
+    margin-left: 170px;
+}
+
+.contacts {
+    display: inline-block;
+    margin-left: 85px;
+}
+
+.tel {
+    color: white;
+    padding-bottom: 20px;
+}
+
+.email {
+    color: white;
+    display: inline-block;
+    margin-bottom: 38px;
+}
+
+.linkcolor {
+    color: white;
+}
+
+/* .all2 {
+    margin-top: 58px;
+margin-bottom: 58px;
+padding: 500px;
+} */
